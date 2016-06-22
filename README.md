@@ -2,7 +2,7 @@
   <img src="https://github.com/pydata/pandas/blob/master/doc/logo/pandas_logo.png"><br>
 </div>
 
------------------
+----------------
 
 # pandas: powerful Python data analysis toolkit
 
